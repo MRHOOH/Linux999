@@ -23,7 +23,7 @@ echo -e "          |2.SPAM                   8.NETHUNTER M  |"
 echo -e "          |3.BANED WA               9.TERMUX LXQT  |"
 echo -e "          |4.UNBANED WA             10.ELITE2      |"
 echo -e "          |5.HACK SOSMED            11.VIPER       |"
-echo -e "          |6.SPLOIT-MALICIOUS       12.SPAMM |"
+echo -e "          |6.SPLOIT-MALICIOUS       12.SPAMM       |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
